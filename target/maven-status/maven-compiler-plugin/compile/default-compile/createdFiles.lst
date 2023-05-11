@@ -1,0 +1,14 @@
+kidsvslab/laboratorio_java/FeedReaderMain.class
+feed/Article.class
+namedEntity/heuristic/RandomHeuristic.class
+subscription/Subscription.class
+namedEntity/heuristic/QuickHeuristic.class
+feed/Feed.class
+parser/SubscriptionParser.class
+namedEntity/NamedEntity.class
+parser/RedditParser.class
+parser/GeneralParser.class
+namedEntity/heuristic/Heuristic.class
+httprequest/httpRequester.class
+subscription/SingleSubscription.class
+parser/RssParser.class
